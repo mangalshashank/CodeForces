@@ -1,1 +1,2 @@
-Codeforces Contest Solutions
+Codeforces Contest Solutions. LeetCode Daily Challenge
+
